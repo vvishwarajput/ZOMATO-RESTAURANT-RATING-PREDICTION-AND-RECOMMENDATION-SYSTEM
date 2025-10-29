@@ -1,0 +1,21 @@
+for restaurant recommendation system we will build content-based recommendation system using cosine similarity.
+
+two main types of recommendation systems
+
+1) content-based filtering - it is based on features such as cuisine,price,location etc.
+
+                            A Content-Based Recommendation System recommends restaurants similar in content (features) to the one the user likes.
+
+
+2) collaborative filtering - it is based on reviews,ratings
+                             - Collaborative Filtering (CF) means “recommending items based on what similar users liked.”
+
+                              In short:
+
+                               “People who are like you, liked these items — so you might like them too.”
+
+                               “Hey Vishwa, since people similar to you liked Truffles, you might like it too!” ✅
+
+That’s Collaborative Filtering.
+
+#used K nearest neighbour algorithm for restaurant recommendation
